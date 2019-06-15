@@ -1,6 +1,6 @@
 ﻿# Beta Distribution-based Cross Entropy
 
-Beta Distribution-based Cross Entropy (BetaDCE) is a general framework for variable selection in high dimensional data. BetaDCE generalizes well without the requirement of resampling such as cross validation. Here is a python implementation which can take advantage of multiple CPU cores to significantly accelerate the running time.
+Beta Distribution-based Cross Entropy (BetaDCE) is a general framework for variable selection in high dimensional data. BetaDCE generalizes well without the requirement of resampling such as cross validation and it can also be used for prediction. Here is a python implementation which can take advantage of multiple CPU cores to significantly accelerate the running time.
 
 |Author|Weixing Dai|
 |---|---
