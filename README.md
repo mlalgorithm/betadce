@@ -42,7 +42,7 @@ optional arguments:
 --cpu C 　    the number of CPUs to use. the default is to use all of CPUs available (optional)  
 
 ```Bash
-aknnPredict.py
+betadcePredict.py
 ```
 Function: Prediction on the test set by the trained model 
 
